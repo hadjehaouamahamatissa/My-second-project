@@ -131,16 +131,16 @@ function clearTeams() {
 // Exemple automatique au changement
 window.addEventListener('load', () => {
     const exampleParticipants =[
-        'Hawa Moha',
-        'Rozy Hakim',
-        'Khuzayfy Taha',
-        'Suhayla Sanusi',
-        'Khansa Ali',
-        'Hadeel Ommar',
-        'Khassem Rahem',
-        'Rayhana Hassane',
-        'Iyomy Weche',
-        'Chaby Acyl'
+        // 'Hawa Moha',
+        // 'Rozy Hakim',
+        // 'Khuzayfy Taha',
+        // 'Suhayla Sanusi',
+        // 'Khansa Ali',
+        // 'Hadeel Ommar',
+        // 'Khassem Rahem',
+        // 'Rayhana Hassane',
+        // 'Iyomy Weche',
+        // 'Chaby Acyl'
 
     ];
     document.getElementById('participants').value = exampleParticipants.join('\n');
